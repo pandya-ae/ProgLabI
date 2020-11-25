@@ -1,0 +1,89 @@
+Algorithm AverageofTwoNumbers
+
+ENTRY
+
+	input: n0,n1
+	output: avg of n0,n1
+
+	avg=(n0+n1)/2
+
+PRINT avg
+
+END
+
+--
+
+Algorithm to register in UGM
+
+ENTRY
+
+1. Enrollment
+2. Major preferences
+3. Data entry
+4. Documents upload
+5. Data submission
+6. Enrollment payment
+7. Print application form
+8. Print admission test card
+9. Admission test
+10. Admission result notification
+11. Pre-registration data entry
+12. Pre-registration documents upload
+13. Pre-registration data submission
+14. Pre-registration documents verification result
+15. Tuition fee result notification
+16. Tuition fee payment
+17. SSO UGM account claiming
+18. Print registration form
+19. Print alma mater jacket claiming schedule
+20. Print photo and student ID claiming schedule
+
+END
+
+--
+
+Algorithm for adding two numbers
+
+ENTRY
+
+	input: n0, n1
+	output: sum of n0,n1
+
+	sum=n0+n1
+
+PRINT sum
+
+END
+  	
+--
+
+Algorithm to determine the number counted as odd or even
+
+ENTRY
+
+	input: integer(i)
+	output: parity
+
+	IF i/2 is an integer number
+		THEN i's parity is even
+	ELSE if i/2 is a decimal number
+		THEN i's parity is odd
+
+PRINT parity
+
+END
+
+--
+ 
+Algorithm to calculate the area of a circle
+
+ENTRY
+
+	input: radius of circle(r),pi constant(π)
+	output: area(a)
+	
+	a=πr^2
+
+PRINT a
+
+END
